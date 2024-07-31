@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 
-🔭 I'm current working in the games industry on a cloud based platforms creating experiences for millions of players and working with large ip brands
+🔭 I'm current working in the games industry on a cloud based platforms creating experiences for millions of players and working with large ip brands\
 🌱 I'm currently learning lots of different frameworks and tools such as:
  - Solid.js
  - Drizzle Orm
